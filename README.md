@@ -2,4 +2,4 @@
 
 added a new line from slave branch
 
-adding another line
+editing from nano editor
